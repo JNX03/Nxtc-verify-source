@@ -1,0 +1,25 @@
+{
+  "name": "NextTectverifybot",
+  "version": "6.4.1",
+  "description": "discordverify-buttonrole",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^13.12.0"
+  },
+  "scripts": {
+    "start": "node --no-warnings index.js"
+  },
+  "author": "JN03",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JNDEV03/Nxtc-verify-source.git"
+  },
+  "bugs": {
+    "url": "hhttps://github.com/JNDEV03/Nxtc-verify-source/issues"
+  },
+  "homepage": "https://github.com/JNDEV03/Nxtc-verify-source",
+  "engines": {
+    "node": "16.x"
+  }
+}
