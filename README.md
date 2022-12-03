@@ -6,7 +6,7 @@
 
 ## Installation
 
-- Go to [latest release page](https://github.com/JNDEV03/BetterDarkzX/releases/tag/Nxtcv1)
+- Go to [latest release page](https://github.com/JNDEV03/Nxtc-verify-source/releases/tag/Nxtcv1)
 - Click file name : Nxtc.zip to download
 - run code " npm install "
 - running bot " node index.js"
