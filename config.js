@@ -2,6 +2,7 @@ const config = {
     // Discord Token
     token: "your discord bot token",
     command: "?createautorole",
+    // Btw you can cutom the commands like !create , $create , etc.
 
     // Embed Settings
     embed: {
