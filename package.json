@@ -10,7 +10,7 @@
     "start": "node --no-warnings index.js"
   },
   "author": "JN03",
-  "license": "MIT",
+  "license": "GNU",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/JNDEV03/Nxtc-verify-source.git"
