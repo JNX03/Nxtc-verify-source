@@ -31,7 +31,7 @@ VS.on('messageCreate', async(message) => {
                 let mainembed = new MessageEmbed()
                     .setColor(config.embed.color)
                     .setDescription(msg)
-                  .setImage('https://cdn.discordapp.com/attachments/832838445071466498/1014195776500543679/Mobo.png')
+                  .setImage('You banner imaeg url')
                     .setFooter(config.embed.footer)
                 let row = new MessageActionRow()
                     .addComponents(
