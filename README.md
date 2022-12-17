@@ -17,3 +17,6 @@
 ## Dev
 
 - [Jn03](https://github.com/JNDEV03)
+
+## Swtbot-source (other project promote) ⭐
+- Releasing soon - Wanna try bot? [click here](https://discord.com/api/oauth2/authorize?client_id=985222992873263144&permissions=8&scope=bot%20applications.commands) or want to help to get the code? [Click here](https://github.com/JNDEV03/Swtbot-source)
