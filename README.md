@@ -1,6 +1,9 @@
 <h1 align="center">Nxtc verify-source</h1>
 
 <p align="center">Discord button-role bot source code of NextGenzX bot</p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/JNDEV03/Nxtc-verify-source/main/file/nxverify.png"/> </a> 
+</p>
 
 ---
 
