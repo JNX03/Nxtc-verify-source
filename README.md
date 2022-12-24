@@ -17,6 +17,12 @@
 <img src="https://raw.githubusercontent.com/JNDEV03/Nxtc-verify-source/main/file/Nxtcverify.png"/> </a> 
 </p>
 
+## Using bot
+
+- If you change the "command in config.js" using you commands (replace in ?createautorole )
+- Using ?createautorole <role> <message>
+- Done! Just Test it again if there are an problem using [Issues](https://github.com/JNDEV03/Nxtc-verify-source/issues)
+
 ## Dev
 
 - [Jn03](https://github.com/JNDEV03)
