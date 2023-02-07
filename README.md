@@ -19,8 +19,8 @@
 
 ## Using bot
 
-- If you change the "command in config.js" using you commands (replace in ?createautorole )
-- Using ?createautorole <role> <message>
+- If you change the "command in config.js" using you commands (replace in ?create )
+- Using ?create <role> <message> [ If you didnt change command name use this but if you change USE YOU OWN that you change in config.js]
 - Done! Just Test it again if there are an problem using [Issues](https://github.com/JNDEV03/Nxtc-verify-source/issues)
 
 ## Dev
